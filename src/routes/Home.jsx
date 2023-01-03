@@ -3,6 +3,8 @@ import Navbar from '../components/Navbar'
 import SearchBox from '../components/SearchBox'
 import Modal from '../components/Modal'
 
+// Web page was displaying, and it compiles without errors, but none of the components will appear now and I cannot figure out why
+
 const Home = async () => {
         this.state = {
           'pokemon': []
